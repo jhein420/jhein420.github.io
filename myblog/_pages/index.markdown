@@ -6,4 +6,11 @@ layout: home
 permalink: /
 ---
 
+<h1>Welcome</h1>
+
+Feel free to explore!
+
+Check out the Posts below to see some of my ongoing projects.See the Blog section to see what I have already completed.
+
+
 
