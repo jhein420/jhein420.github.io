@@ -10,7 +10,9 @@ permalink: /
 
 Feel free to explore!
 
-Check out the Posts below to see some of my ongoing projects.See the Blog section to see what I have already completed.
+Check out the Posts below to see some of my ongoing projects. See the Blog section to view what I have already completed.
 
+The site looks a bit bland at the moment but that is subject to change as soon as I get 
+the hang of Jekyll themes.
 
 
