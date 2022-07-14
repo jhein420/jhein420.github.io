@@ -25,7 +25,7 @@ permalink: /CV/
     IT hardware & software support. </p>
 
   <p>  <h4>IT Technician</h4>
-    Polaris Tech. 12 months <br>
+    Polaris Tech.  12 month Contract <br>
     July 2021 – July 2022 <br><br>
     General duties included IT hardware support and repair,on site technical support services
     such as investigating, diagnosing hardware and software issues on
@@ -43,3 +43,5 @@ permalink: /CV/
     
     Misc. skill I picked up includes,IT Hardware repair,IT support services,
     basic Linux knowledge and working knowledge and use of Git for version control.
+
+
