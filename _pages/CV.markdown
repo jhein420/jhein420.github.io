@@ -12,9 +12,7 @@ permalink: /CV/
     Bachelors of Technology: Software Development <br>
     Nelson Mandela University 2021   
 </p>
-    
-
-        
+          
 
 <h2>Experience</h2>
   <p>  <h4>IT Technician Intern </h4>
@@ -30,6 +28,13 @@ permalink: /CV/
     General duties included IT hardware support and repair,on site technical support services
     such as investigating, diagnosing hardware and software issues on
     various types of computer hardware. </p>
+
+  <p>  <h4>Freelance software developer</h4>
+    Current occupation <br>
+    20 July 2022 - Current Date <br><br>
+    Mostly freelancing on Upwork for now. This includes basic scripting( bash, python) or developing other 
+    simple software programs in c#, c/c++ (mainly for arduino etc...) or web apps with javascript/php. 
+     </p>
 
 <h2>Skills</h2>
     General Web Development language Skills includes HTML, CSS, JavaScript, PHP and SQL.
