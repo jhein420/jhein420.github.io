@@ -14,4 +14,4 @@ for python and this one for <a href='https://www.freecodecamp.org/news/how-to-sc
 One of the sites I frequently use, <a href='https://www.botshop.co.za/'> BotShop </a> was the first site that I would try my hand at.
 
 Here is the scraper collection, some written in python and some using node.js.<br>
-I called it <a href='https://github.com/jhein420/scrapey' > Scrapey </a>.
+I called it <a href='https://github.com/jhein420/scrapey' > Scrapey. </a>.
