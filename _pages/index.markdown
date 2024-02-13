@@ -10,7 +10,7 @@ permalink: /
 
 Feel free to explore!
 
-Check out the Posts below to see some of my ongoing projects. See the Blog section to view what I have already completed.
+Check out the Posts below to see some of my ongoing projects. See the Blog section to view what I have previously worked on.
 
 Check out my <a href="https://github.com/jhein420"> Github </a>
 ,find me on <a href="https://www.linkedin.com/"> LinkedIn </a> or
