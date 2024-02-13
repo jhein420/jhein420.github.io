@@ -5,21 +5,19 @@ permalink: /about/
 ---
 
 Just a young software developer from South Africa looking to grow his skills 
-and further his career goals.
+and further his career.
 
 I enjoy tinkering within all the different areas of tech, from run of the mill web development 
-all the way to game development, data science, IoT devices, 3d printing and 
+all the way to game development, data science, artificial intelligence, IoT devices, 3d printing and 
 embedded systems electronics.
 
-Finding enjoyment in creating new software applications that solve a variety of real world 
-problems is a great source of accomplishment in my opinion.
+Creating new software applications for my own amusement is a
+habit I have been trying to cultivate for years
 
-On the hardware side I insist on always diagnosing and fixing my own devices, be they a
-laptop,desktop or router. Being able to repair and maintain ones own computers or peripherals
-is key to being a good problem solver.
+On the hardware side I insist on always fixing my own devices. Being able to repair and maintain my own equipment
+is a point of pride for me.
 
-Feel free to check out my github or various blog posts that detail the projects I am curently
-working on.
+Feel free to check out my socials and the rest of the site.
 
 
 
